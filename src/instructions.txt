@@ -1,0 +1,6 @@
+Stage files (i.e. they should be comitted in the next commit) -> git add
+Commit files (i.e. This is the new snapshot of the git repo locally for now) -> git commit -m "message"
+Push files (save the snapshot to the server side repository) -> git push branch
+
+Get file info at any time -> git status
+https://www.youtube.com/watch?v=iBiNfa32AnE&t=2084s
